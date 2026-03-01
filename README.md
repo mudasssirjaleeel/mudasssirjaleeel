@@ -136,7 +136,7 @@
 </tr>
 </table>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:sales@dhsol.net">
   <img src="https://img.shields.io/badge/📩_Hire_DH_Solutions-Book_a_Call-10B981?style=for-the-badge" />
 </a>
 
