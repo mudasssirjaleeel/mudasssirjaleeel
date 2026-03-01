@@ -202,11 +202,3 @@ const mudassirJaleel = {
   availability: "Open to global collaborations & long-term partnerships"
 };
 
-
-<div align="center"> <a href="https://github.com/mudasssirjaleeel"> <img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/your-linkedin/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" />
-
-⭐ From mudasssirjaleeel
- with 💜
-
-</div> ```
