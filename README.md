@@ -16,8 +16,6 @@
 
 </div>
 
----
-
 ## 🎯 What I Do
 
 <div align="center">
