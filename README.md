@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=mudasssirjaleeel&color=3533CD&style=for-the-badge&label=PROFILE+VISITORS" />
+<img src="https://komarev.com/ghpvc/?username=mudasssirjaleeel&color=3533CD&style=for-the-badge&label=PROFILE+VISITORS&startingCount=5200" />
 
 </div>
 
