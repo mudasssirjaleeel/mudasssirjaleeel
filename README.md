@@ -12,8 +12,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=mudasssirjaleeel&color=3533CD&style=for-the-badge&label=PROFILE+VISITORS" />
-<img src="https://img.shields.io/badge/STARTING%20FROM-5.2K%2B-3533CD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/👀%20PROFILE%20VISITORS-5.2K%2B-3533CD?style=for-the-badge" />
 
 </div>
 
