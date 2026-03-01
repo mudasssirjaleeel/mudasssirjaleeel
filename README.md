@@ -154,7 +154,7 @@
 ✅ If you have a product → we scale it  
 ✅ If you have issues → we fix + optimize + maintain  
 
-<a href="mailto:your-email@example.com">
+<a href="mudassir@dhsol.net">
   <img src="https://img.shields.io/badge/🚀_Start_a_Project-Email_Now-3533CD?style=for-the-badge" />
 </a>
 
