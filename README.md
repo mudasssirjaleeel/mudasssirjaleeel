@@ -171,10 +171,10 @@
 <br/><br/>
 
 <!-- OPTIONAL: Replace # with your actual Upwork/Clutch profile links -->
-<a href="#">
+<a href="https://www.upwork.com/agencies/1688668528102531072/">
   <img src="https://img.shields.io/badge/Upwork_Profile-Visit-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
 </a>
-<a href="#">
+<a href="https://clutch.co/profile/dh-solutions-0">
   <img src="https://img.shields.io/badge/Clutch_Profile-Visit-0A66C2?style=for-the-badge&logo=clutch&logoColor=white" />
 </a>
 
